@@ -100,10 +100,12 @@ button{
 }
 a:hover{
     color: #bde0fe;
+    transition: 0.5s;
 }
 
 button:hover{
     background-color: #bde0fe ;
+    transition: 0.5s;
    
        
 
